@@ -1,1 +1,1 @@
-link to dataset:[ https://archive.ics.uci.edu/dataset/34/diabetes](url)
+link to dataset: [Diabetes data set](https://archive.ics.uci.edu/dataset/34/diabetes)
